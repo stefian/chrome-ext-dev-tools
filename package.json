@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/stefian/chrome-ext-dev-tools/issues"
   },
-  "homepage": "https://github.com/stefian/chrome-ext-dev-tools#readme"
+  "homepage": "https://github.com/stefian/chrome-ext-dev-tools#readme",
+  "dependencies": {
+    "@types/chrome": "0.0.122",
+    "types": "^0.1.1"
+  }
 }
